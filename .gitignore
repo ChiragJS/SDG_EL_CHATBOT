@@ -49,6 +49,7 @@ coverage.xml
 
 # dotenv
 .env
+.env.*
 
 # VS Code
 .vscode/
@@ -61,3 +62,7 @@ coverage.xml
 
 # System
 Thumbs.db
+
+# Data files
+*.csv
+!dataset.csv
